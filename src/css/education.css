@@ -17,3 +17,14 @@
         width: 15% !important;
     }
 }
+
+/* Style all date labels */
+.timeline-main-wrapper .timeline-content .timeline-date-content {
+    background-color: #60a5fa; /* Light blue background */
+    color: black;              /* Black text */
+    padding: 4px 10px;
+    border-radius: 6px;
+    font-weight: 500;
+    display: inline-block;
+    font-size: 14px;
+}
