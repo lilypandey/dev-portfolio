@@ -1,9 +1,9 @@
-# Dev Portfolio  [![GitHub](https://img.shields.io/github/license/mayankagarwal09/dev-portfolio?color=blue)](https://github.com/mayankagarwal09/dev-portfolio/blob/master/LICENSE.md) ![visitors](https://visitor-badge.glitch.me/badge?page_id=mayankagarwal09.dev-portfolio&color=blue)
+# Dev Portfolio  [![GitHub](https://img.shields.io/github/license/lilypandey/dev-portfolio?color=blue)](https://github.com/lilypandey/dev-portfolio/blob/master/LICENSE.md) ![visitors](https://visitor-badge.glitch.me/badge?page_id=lilypandey.dev-portfolio&color=blue)
 
 ## A minimal portfolio template for Developers!
 
 <h2 align="center">
-  <img src="https://github.com/mayankagarwal09/dev-portfolio/blob/master/images/dev-portfolio.gif" alt="Dev Portfolio" />
+  <img src="https://github.com/lilypandey/dev-portfolio/blob/master/images/dev-portfolio.gif" alt="Dev Portfolio" />
   <br>
 </h2>
 
@@ -17,7 +17,7 @@
 
 ## Demo
 
-To view the demo: **[click here](https://dev-portfolio-mayankagarwal09.vercel.app)**
+To view the demo: **[click here](https://dev-portfolio-lilypandey.vercel.app)**
 
 ## Why do you need a portfolio? ☝️
 
@@ -43,7 +43,7 @@ From your command line, first clone Dev Portfolio:
 
 ```bash
 # Clone the repository
-$ git clone https://github.com/mayankagarwal09/dev-portfolio
+$ git clone https://github.com/lilypandey/dev-portfolio
 
 # Move into the repository
 $ cd dev-portfolio
@@ -129,7 +129,7 @@ It has 2 keys, *logo* and *sections*.
         },
         {
             "title": "Resume",
-            "href": "https://drive.google.com/file/d/13kaPsdMNDsM4LV9g7m5-E5PTildp-yYf/view?usp=sharing",
+            "href": "https://drive.google.com/file/d/1Yzkq1028JD69uLdMLFZmjEANcVIALsIG/view?usp=sharing",
             "type": "link"
         }
     ]
@@ -199,7 +199,7 @@ It has 2 keys, *logo* and *sections*.
 ```
 {
     "name": "Your Name",
-    "roles": ["a Developer", "a Freelancer"]
+    "roles": ["a Developer"]
 }
 ```
 
@@ -407,51 +407,16 @@ It has 2 keys, *logo* and *sections*.
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/dev-portfolio"
+                    "href": "https://github.com/lilypandey/dev-portfolio"
                 },
                 {
                     "text": "Live",
-                    "href": "https://mayankagarwal.me"
+                    "href": "https://lilypandey.vercel.app"
                 }
             ],
             "tags" : [
                 "React",
                 "Portfolio",
-                "JavaScript"
-            ]
-        },
-        {
-            "title": "MVVM Sample App",
-            "bodyText": "- An Android App that loads data from mock API and show in both **LinearLayout** and **GridLayout RecyclerView**.\n - Offline support using **Room** DB and **NetworkBoundResource**.\n - Uses the **MVVM** architecture.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/mvvm-sample-app"
-                }
-            ],
-            "tags" : [
-                "Kotlin",
-                "Android",
-                "MVVM",
-                "Room",
-                "Coroutines",
-                "Flow",
-                "Hilt-Dagger",
-                "NetworkBoundResource"
-            ]
-        },
-        {
-            "title": "Task Tracker",
-            "bodyText": "- A simple Task Tracker web app made with **Angular 12**.\n - Uses **mock JSON server** to get, add, delete or update tasks.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/task-tracker-app"
-                }
-            ],
-            "tags" : [
-                "TypeScript",
-                "Angular 12",
                 "JavaScript"
             ]
         }
@@ -547,15 +512,15 @@ I highly recommend to use [Vercel](https://vercel.app) because it is super easy.
 
 ## Notable Portfolios made using this template
 
-- [Mayank Agarwal](https://mayankagarwal09.com)
+- [Lily Pandey](https://lilypandey.vercel.app)
 
 ## Authors
 
-- **Mayank Agarwal** - [https://github.com/mayankagarwal09](https://github.com/mayankagarwal09)
+- **Lily Pandey** - [https://github.com/lilypandey](https://github.com/lilypandey)
 
 ## Support
 
-If you find a bug, feel free to [open an issue](https://github.com/mayankagarwal09/dev-portfolio/issues) in this repository.
+If you find a bug, feel free to [open an issue](https://github.com/lilypandey/dev-portfolio/issues) in this repository.
 
 ## License 📄
 

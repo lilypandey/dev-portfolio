@@ -1,33 +1,24 @@
 {
     "experiences": [
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
+            "title": "System Engineer",
+            "subtitle": "Matter Motors Pvt. Ltd.",
             "workType": "Full-time",
             "workDescription": [
-                "Integrated **2** new product.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
+                "Implemented OS flashing for the VIC system via OTA updates and ADB commands, ensuring seamless functionality and software stability.",
+                "Defined and documented key features for the Companion App, including Geofencing, Remote Lock/Unlock, and Buzzer capabilities, enhancing user experience and security while ensuring compliance with legal and system requirements.", 
+                "Developed and executed 300+ test cases for the VIC ecosystem, improving product stability through rigorous testing with Busmaster and P-CAN."
             ],
-            "dateText": "06/20XX – Present"
+            "dateText": "06/2023 – 11/2023"
         },
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
+            "title": "Product Development and Technology Intern",
+            "subtitle": "Matter Motors Pvt. Ltd.",
             "workType": "Internship",
             "workDescription": [
-                "Worked on abc."
+                "Actively contributed to continuous RnD initiatives to enhance VIC ecosystem features for better reliability and conducted system testing, improving performance and usability."
             ],
-            "dateText": "01/20XX – 05/20XX"
-        },
-        {
-            "title": "App Developer",
-            "subtitle": "ABC Pvt Ltd",
-            "workType": "Freelance",
-            "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
-                "Done bcd work."
-            ],
-            "dateText": "09/20XX – 01/20YY"
+            "dateText": "07/2022 – 12/2022"
         }
     ]
 }
