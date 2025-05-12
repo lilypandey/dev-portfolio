@@ -28,3 +28,24 @@
     display: inline-block;
     font-size: 14px;
 }
+
+.timeline-item-title {
+    background-color: #60a5fa;  /* Light blue background */
+    color: black;               /* Black text */
+    padding: 4px 10px;
+    border-radius: 6px;
+    font-weight: 500;
+    display: inline-block;
+    font-size: 14px;
+}
+
+.timeline-item-title.rc-title {
+    background-color: #60a5fa;
+    color: black;
+    padding: 4px 10px;
+    border-radius: 6px;
+    font-weight: 500;
+    display: inline-block;
+    font-size: 14px;
+}
+
