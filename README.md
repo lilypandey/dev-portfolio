@@ -17,7 +17,7 @@
 
 ## Demo
 
-To view the demo: **[click here](https://dev-portfolio-lilypandey.vercel.app)**
+To view the demo: **[click here](https://dev-portfolio-lily.vercel.app/)**
 
 ## Why do you need a portfolio? ☝️
 
@@ -411,7 +411,7 @@ It has 2 keys, *logo* and *sections*.
                 },
                 {
                     "text": "Live",
-                    "href": "https://lilypandey.vercel.app"
+                    "href": "https://dev-portfolio-lily.vercel.app/"
                 }
             ],
             "tags" : [
@@ -512,7 +512,7 @@ I highly recommend to use [Vercel](https://vercel.app) because it is super easy.
 
 ## Notable Portfolios made using this template
 
-- [Lily Pandey](https://lilypandey.vercel.app)
+- [Lily Pandey](https://dev-portfolio-lily.vercel.app/)
 
 ## Authors
 
