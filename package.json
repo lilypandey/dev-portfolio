@@ -3,6 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "ajv": "6.12.6",
+    "ajv-keywords": "^3.5.2",
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
@@ -24,8 +26,7 @@
     "use-dark-mode": "^2.3.1",
     "vertical-timeline-component-for-react": "^1.0.7",
     "web-vitals": "^1.0.1",
-    "webpack": "^5.64.4",
-    "ajv": "^6.12.6"
+    "webpack": "^5.64.4"
   },
   "browserslist": {
     "production": [
